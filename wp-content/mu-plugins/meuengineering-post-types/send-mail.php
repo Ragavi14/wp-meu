@@ -26,7 +26,7 @@ function handle_form_submission($request)
 
     
     // Send email
-    $to = 'ragavi@netiapps.com';
+    $to = 'sales@meuengineering.com';
     $subject = 'New Form Submission';
     $body = "Name : ".$name."\nMobile : ". $mobile."\nEmail : ". $email."\nMessage : ".$message;
 
