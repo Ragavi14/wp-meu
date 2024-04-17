@@ -14,8 +14,8 @@ require WPMU_PLUGIN_DIR."/meuengineering-post-types/products-post-type.php";
 require WPMU_PLUGIN_DIR."/meuengineering-post-types/facilities-post-type.php";
 require WPMU_PLUGIN_DIR."/meuengineering-post-types/contact-post-type.php";
 require WPMU_PLUGIN_DIR."/meuengineering-post-types/industry-post-type.php";
-require WPMU_PLUGIN_DIR."/meuengineering-post-types/productsDetails-post-type.php";
 require WPMU_PLUGIN_DIR."/meuengineering-post-types/industriesPage-post-type.php";
+require WPMU_PLUGIN_DIR."/meuengineering-post-types/productOverView-post-type.php";
 require WPMU_PLUGIN_DIR."/meuengineering-post-types/send-mail.php";
 
 
