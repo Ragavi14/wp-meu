@@ -54,7 +54,7 @@ function handle_form_submission(WP_REST_Request $request) {
         $uploaded_file_path = ''; // Handle the case where no file is uploaded
     }
 
-    $to = 'ragavi@netiapps.com';
+    $to = 'sales@meuengineering.com';
     $subject = 'New Form Submission';
     $body = "Name: $name,\n Mobile: $mobile,\n Email: $email,\n Website: $website,\n Quantity: $quantity,\n Message: $message";
     $headers = array('Content-Type: text/html; charset=UTF-8');
